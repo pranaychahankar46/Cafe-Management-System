@@ -1,1 +1,1 @@
-# Cafe-Management-System
+This Python script simulates a basic menu ordering system for a restaurant. Users are greeted and presented with a predefined menu including items like Pizza, Pasta, Burger, Salad, and Coffee, each with their respective prices. The script allows users to enter their desired items, checks if the items are available in the menu, calculates the total order amount, and provides an option to add another item to the order. If an item entered by the user is not available in the menu, it notifies the user accordingly. 
